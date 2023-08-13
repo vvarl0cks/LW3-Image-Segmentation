@@ -7,7 +7,7 @@ In this lesson, we’re gonna be building a project that makes use of image segm
 - https://nodejs.org/en/download   
 - https://huggingface.co/   
 
-## Demo   
+## Demo 👨‍🚀 https://warlocks-imgsegment.netlify.app   
 
 <img src="https://iili.io/HDoXWB9.png" alt="HDoXWB9.png" border="0" /></a>
 
